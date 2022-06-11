@@ -1,7 +1,7 @@
 #Password Generator  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
  
 
-  Description: An app that allow users to search and save playlists
+  Description: An app that allow users to generate a password based on their personal preference
  
 
 ## Table of content
